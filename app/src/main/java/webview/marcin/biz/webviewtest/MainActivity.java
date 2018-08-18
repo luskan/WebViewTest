@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
 
     if (savedInstanceState == null) {
       /*
+
       JSONObject obj = new JSONObject();
       try {
       } catch (JSONException e) {
